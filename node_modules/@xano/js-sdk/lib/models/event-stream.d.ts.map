@@ -1,0 +1,1 @@
+{"version":3,"file":"event-stream.d.ts","sourceRoot":"","sources":["../../src/models/event-stream.ts"],"names":[],"mappings":"AAAA,qBAAa,eAAe;IAC1B,IAAI,EAAE,MAAM,CAAC;IACb,EAAE,EAAE,MAAM,CAAC;IACX,IAAI,EAAE,MAAM,CAAC;gBAED,IAAI,EAAE;QAAE,IAAI,EAAE,MAAM,CAAC;QAAC,EAAE,EAAE,MAAM,CAAC;QAAC,IAAI,EAAE,MAAM,CAAA;KAAE;IAI5D,UAAU,IAAI,GAAG;CAOlB"}
